@@ -23,7 +23,7 @@
                  
                 
                 <Button Padding="10" 
-                        Name="btnUP" Click="btnDown_Click"
+                        Name="btnUP1111" Click="btnDown_Click"
                         Margin="5">Вперед</Button>
               
             </StackPanel>
